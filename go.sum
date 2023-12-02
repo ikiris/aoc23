@@ -1,0 +1,4 @@
+github.com/ikiris/aoc21 v0.0.0-20220106054838-1c24ffb42003 h1:TAb/HunKmH5J6G8eXHSQpmKZqYxQgWyoykjIjHcoymk=
+github.com/ikiris/aoc21 v0.0.0-20220106054838-1c24ffb42003/go.mod h1:7Uo84tv789UUkwE1W1UPXhjhBtBo4yLRMfjz4Tjt8OY=
+golang.org/x/exp v0.0.0-20231127185646-65229373498e h1:Gvh4YaCaXNs6dKTlfgismwWZKyjVZXwOPfIyUaqU3No=
+golang.org/x/exp v0.0.0-20231127185646-65229373498e/go.mod h1:iRJReGqOEeBhDZGkGbynYwcHlctCvnjTYIamk7uXpHI=
